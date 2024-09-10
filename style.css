@@ -1,0 +1,12 @@
+/* selector etiquetas html */
+h1{
+    color: tomato;
+}
+
+ul{
+    color: blue;
+}
+
+div h3{
+    color:aqua;
+}
